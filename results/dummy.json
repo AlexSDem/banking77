@@ -1,0 +1,5 @@
+{
+  "majority_label": "card_payment_fee_charged",
+  "accuracy": 0.012987012987012988,
+  "macro_f1": 0.000333000333000333
+}

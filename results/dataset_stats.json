@@ -1,0 +1,22 @@
+{
+  "official_train": 10003,
+  "official_test": 3080,
+  "classes": 77,
+  "clean_train": 9999,
+  "training_pool": 7999,
+  "validation": 2000,
+  "removed_train_rows": 4,
+  "conflicting_texts": 0,
+  "train_pool_min_per_class": 28,
+  "train_pool_max_per_class": 149,
+  "official_test_min_per_class": 40,
+  "official_test_max_per_class": 40,
+  "mean_train_words": 11.949415175447365,
+  "mean_test_words": 10.952597402597403,
+  "median_train_words": 10.0,
+  "cross_split_normalized_overlap": 7,
+  "data_sha256": {
+    "train.csv": "b06e26ac675513959a63135f11b94ea7786ed02da65db93a5650d8838cbc664b",
+    "test.csv": "d12d6e3bc4c3103966ae786dc435913c0c563dfa328f5a3646d0e62cfeeb474d"
+  }
+}

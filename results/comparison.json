@@ -1,0 +1,10 @@
+{
+  "comparison": "combined minus word, fixed pool models",
+  "delta_accuracy": 0.02792207792207792,
+  "bootstrap_ci95": [
+    0.02077922077922078,
+    0.03539772727272723
+  ],
+  "resamples": 2000,
+  "note": "Paired test-row bootstrap; conditional on fitted models, not training variability."
+}
